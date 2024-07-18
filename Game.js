@@ -20,7 +20,7 @@ else{
 }
 }
 if(c1>y){
-    console.log("Computer wins thw Tournament")
+    console.log("Computer wins the Tournament")
 }
 else if(y>c1){
     console.log("You win the Tournament")
